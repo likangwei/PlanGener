@@ -7185,7 +7185,7 @@
       "progress": 0
     },
     {
-      "status": null,
+      "status": "ac",
       "stat": {
         "total_acs": 16711,
         "question__title": "Max Sum of Rectangle No Larger Than K",
@@ -7899,7 +7899,7 @@
       "progress": 0
     },
     {
-      "status": null,
+      "status": "ac",
       "stat": {
         "total_acs": 44639,
         "question__title": "Longest Increasing Path in a Matrix",
